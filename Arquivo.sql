@@ -1,3 +1,6 @@
 Nome: Natan
 Sobrenome: Siqueira
-Idade: 21
+Sexo: M
+Cor: Branca
+Cidade: São Paulo
+Estado: SP
