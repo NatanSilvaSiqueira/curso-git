@@ -1,1 +1,8 @@
 UsadoNoGitIgnore.sql
+HEAD
+clonei_repositorio_nesta_pasta/
+config
+description
+hooks/
+info/
+pasta_armazena_alteracoes_simula_servidor/
