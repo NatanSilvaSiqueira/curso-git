@@ -6,3 +6,4 @@ Cidade: São Paulo
 Estado: SP
 Time: Flamengo
 Bairro: São Caetano
+Estado Civil: Casado
